@@ -1,0 +1,33 @@
+adauga_student - licenta - Aiden
+adauga_student - licenta - Bella
+adauga_student - licenta - Cornell
+adauga_student - master - Daniel
+adauga_student - master - Emma
+adauga_student - master - Frank
+citeste_mediile
+posteaza_mediile
+adauga_curs - licenta - Mate1 - 1
+adauga_curs - licenta - Mate2 - 1
+adauga_curs - licenta - Mate3 - 3
+adauga_curs - master - SO - 1
+adauga_curs - master - AI - 1
+adauga_curs - master - MN - 3
+adauga_preferinte - Aiden - Mate1
+adauga_preferinte - Bella - Mate1
+adauga_preferinte - Cornell - Mate2
+adauga_preferinte - Daniel - SO
+adauga_preferinte - Emma - AI
+adauga_preferinte - Frank - SO
+repartizeaza
+posteaza_curs - Mate1
+posteaza_curs - Mate2
+posteaza_curs - Mate3
+posteaza_curs - SO
+posteaza_curs - AI
+posteaza_curs - MN
+posteaza_student - Aiden
+posteaza_student - Bella
+posteaza_student - Cornell
+posteaza_student - Daniel
+posteaza_student - Emma
+posteaza_student - Frank
